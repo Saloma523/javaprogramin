@@ -1,0 +1,4 @@
+Hello world
+I love java
+how are you today
+im studying very hard
